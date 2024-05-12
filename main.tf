@@ -1,4 +1,4 @@
-#module
+# module
 
 module "vpc-internal" {
   source = "./modules/vpc"
